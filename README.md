@@ -1,6 +1,6 @@
 # 💳 EasyBank
 
-Projeto final da matéria de Modelagens de Sistemas Computacionais, visando o protótipo de um sistema bancário digital moderno, seguro e escalável.
+Projeto final da matéria de Modelagem de Sistemas Computacionais, visando o protótipo de um sistema bancário digital moderno, seguro e escalável.
 
 ---
 
